@@ -1,0 +1,5 @@
+name: ItemSwap
+version: '1.0-SNAPSHOT'
+main: winlyps.itemSwap.ItemSwap
+api-version: '1.16'
+authors: [ Winlyps ]
